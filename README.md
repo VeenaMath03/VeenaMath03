@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/veena-math-4798b826a
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+  
 
 <!---
 VeenaMath03/VeenaMath03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
